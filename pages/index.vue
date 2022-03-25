@@ -94,7 +94,6 @@ export default {
 .intro {
   text-align: center;
     white-space: nowrap;
-    overflow: hidden;
 }
 
 .my-face {
