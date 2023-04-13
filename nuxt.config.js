@@ -5,12 +5,6 @@ export default {
     htmlAttrs: {
       lang: 'en'
     },
-    script: [
-      {
-        src: './assets/widget.js',
-        body: true,
-      },
-    ],
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
