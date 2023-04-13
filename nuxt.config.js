@@ -7,7 +7,7 @@ export default {
     },
     script: [
       {
-        src: "https://cdn.userway.org/widget.js",
+        src: './assets/widget.js',
         body: true,
       },
     ],
