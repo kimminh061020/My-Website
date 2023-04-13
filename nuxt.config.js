@@ -13,7 +13,10 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ]
+    ],
+    script: [
+      { src: "https://cdn.userway.org/widget.js", "data-account": "M61lrwQRlB", defer: "true" }
+    ],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
