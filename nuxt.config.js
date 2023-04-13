@@ -15,7 +15,7 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ],
     script: [
-      { src: "https://cdn.userway.org/widget.js", "data-account": "1ZYCMY5P2H", defer: "true" }
+      { src: "https://cdn.userway.org/widget.js", data-account: "1ZYCMY5P2H", body: true }
     ],
   },
 
